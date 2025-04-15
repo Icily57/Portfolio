@@ -8,6 +8,7 @@ body {
     font-family: 'Segoe UI', sans-serif;
     background-color: #11101d;
     color: #fff;
+    font-size: 1rem;
   }
   
   header {
@@ -56,6 +57,11 @@ body {
   .hero-img img {
     width: 400px;
     border-radius: 20px;
+  }
+
+  .hero-info{
+    color: #c2eed3;
+    font-size: 1.5rem;
   }
   
   .btn {
